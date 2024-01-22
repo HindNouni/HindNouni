@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HindNouni
 - 👀 I’m interested in the intersection of technology, design and storytelling - creating immersive experiences on the web that captivate and engage. 
-- 🌱 I’m currently learning the ins and outs of front-end development, with a focus on mastering HTML, CSS, and diving into the world of JavaScript.
+- 🌱 I’m currently learning the ins and outs of front-end and back-end development, with a focus on mastering HTML, CSS, and diving into the world of JavaScript,Ruby and Python.
 - 💞️ I’m looking to collaborate on innovative web projects that push boundaries and challenge my coding skills. If you have a creative idea or need an extra pair of hands, count me in! 
 - 📫 How to reach me: Feel free to shoot me a message here on GitHub or connect with me on LinkedIn (Hind Nouni) 
 - 😄 Pronouns: She/Her
